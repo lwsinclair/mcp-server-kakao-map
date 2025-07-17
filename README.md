@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cgoinglove-mcp-server-kakao-map-badge.png)](https://mseep.ai/app/cgoinglove-mcp-server-kakao-map)
+
 Kakao Map MCP Server
 
 한국어 | [English](./docs/en.md)
